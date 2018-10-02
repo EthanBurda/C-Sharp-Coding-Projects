@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOne", "TwentyOne\TwentyOne.csproj", "{9610B1F8-395B-4EF1-B214-EE6FF9604761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "Casino\Casino.csproj", "{CDD6BB01-EA01-4122-996D-3E0B05269197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9610B1F8-395B-4EF1-B214-EE6FF9604761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9610B1F8-395B-4EF1-B214-EE6FF9604761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9610B1F8-395B-4EF1-B214-EE6FF9604761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9610B1F8-395B-4EF1-B214-EE6FF9604761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD6BB01-EA01-4122-996D-3E0B05269197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD6BB01-EA01-4122-996D-3E0B05269197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD6BB01-EA01-4122-996D-3E0B05269197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD6BB01-EA01-4122-996D-3E0B05269197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67431C90-F735-4D49-B1B6-E98F5609FC76}
+	EndGlobalSection
+EndGlobal
